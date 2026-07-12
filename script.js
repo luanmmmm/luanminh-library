@@ -1,6 +1,6 @@
 const initialDocuments = [
     {
-        id: 1,
+        id: 7,
         title: "GIÁO ÁN HDTN LỚP 7",
         category: "history", 
         format: "pdf"t,
@@ -14,7 +14,7 @@ const initialDocuments = [
         title: "Chuyên đề giảng dạy: Hồ Chí Minh và con đường giải phóng dân tộc",
         category: "hcm",
         format: "pdf",
-        downloadUrl: "#"
+        downloadUrl: "https://drive.google.com/file/d/1JZzMhMfOwgDhp2L8h_UdD9OGMSelwl-3/view?usp=drive_link"
     },
     {
         id: 2,
