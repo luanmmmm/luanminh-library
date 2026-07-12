@@ -5,7 +5,7 @@ const initialDocuments = [
         title: "Chuyên đề giảng dạy: Hồ Chí Minh và con đường giải phóng dân tộc",
         category: "hcm",
         format: "pdf",
-        downloadUrl: "https://drive.google.com/file/d/1JZzMhMfOwgDhp2L8h_UdD9OGMSelwl-3/view?usp=drive_link"
+     downloadUrl: "https://drive.google.com/file/d/1JZzMhMfOwgDhp2L8h_UdD9OGMSelwl-3/preview"
     },
     {
         id: 2,
