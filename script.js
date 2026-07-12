@@ -12,7 +12,7 @@ const initialDocuments = [
         title: "Giáo án Lịch sử lớp 8: Khái quát Lịch sử thế giới cận đại (Chân trời sáng tạo)",
         category: "history",
         format: "dieu-hanh",
-        downloadUrl: "#"
+        downloadUrl: "https://drive.google.com/drive/folders/1e38xV1AjKPVUqWbOjzu6yICMS1Pc6do2?usp=drive_link"
     },
     {
         id: 3,
