@@ -1,4 +1,13 @@
-// Sample Mock Document Data for Education Library
+const initialDocuments = [
+    {
+        id: 1,
+        title: "GIÁO ÁN HDTN LỚP 7",
+        category: "history", 
+        format: "pdf"t,
+        downloadUrl: "https://drive.google.com/file/d/1JZzMhMfOwgDhp2L8h_UdD9OGMSelwl-3/view?usp=drive_link"
+    },
+    // ... các tài liệu tiếp theo
+];// Sample Mock Document Data for Education Library
 const initialDocuments = [
     {
         id: 1,
